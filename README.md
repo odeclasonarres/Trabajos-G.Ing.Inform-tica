@@ -21,7 +21,7 @@ Recopilación de trabajos y prácticas de las diferentes asignaturas del Grado e
 - Fundamentos de Bases de Datos(FBD)
 - Fundamentos de la Ingeniería del Software(FIS)
 - [Inteligencia Artificial(IA)](https://github.com/odeclasonarres/IA_UGR)
-- Programación Dirigida a Objetos(PDOO)
+- [Programación Dirigida y Orientada a Objetos(PDOO)](https://github.com/odeclasonarres/PDOO_UGR)
 - Sistemas Concurrentes y Distribuidos(SCD)
 - [Sistemas Operativos](https://github.com/odeclasonarres/Sistemas-Operativos)
       

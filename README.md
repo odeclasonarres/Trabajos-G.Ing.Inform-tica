@@ -14,15 +14,16 @@ Recopilación de trabajos y prácticas de las diferentes asignaturas del Grado e
 - Tecnología y Organización de Computadores(TOC)
       
 2º:
-- Arquitectura de Computadores(AC)
+- [Arquitectura de Computadores(AC)](https://github.com/odeclasonarres/AC_UGR)
 - Algorítmica(ALG)
-- Estructura de Computadores(EC)
+- [Estructura de Computadores(EC)](https://github.com/odeclasonarres/Estructura-de-Computadores)
 - Estructura de Datos(ED)
 - Fundamentos de Bases de Datos(FBD)
 - Fundamentos de la Ingeniería del Software(FIS)
 - [Inteligencia Artificial(IA)](https://github.com/odeclasonarres/IA_UGR)
 - Programación Dirigida a Objetos(PDOO)
 - Sistemas Concurrentes y Distribuidos(SCD)
+- [Sistemas Operativos](https://github.com/odeclasonarres/Sistemas-Operativos)
       
 3º:
 - Fundamentos de Redes(FR)
@@ -33,6 +34,6 @@ Especialidad de Sistemas de Información:
 - Ingeniería de Sistemas de Información(ISI)
 - Programación Web(PW)
 - Sistemas de Información para Empresas(SIE)
-- Sistemas Multidimensionales(SMD)        
+- [Sistemas Multidimensionales(SMD)](https://github.com/odeclasonarres/SMD_UGR)       
         
 4º:

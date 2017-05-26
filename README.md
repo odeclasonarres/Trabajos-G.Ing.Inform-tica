@@ -10,7 +10,7 @@ Recopilación de trabajos y prácticas de las diferentes asignaturas del Grado e
 - Fundamentos del Software(FS)
 - Ingeniería, Empresa y Sociedad(IES)
 - Lógica y Matemáticas Discretas(LMD)
-- Metodología de la Programación(MP)
+- [Metodología de la Programación(MP)](https://github.com/odeclasonarres/MP_UGR)
 - Tecnología y Organización de Computadores(TOC)
       
 2º:
